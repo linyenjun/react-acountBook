@@ -1,0 +1,42 @@
+{
+  "records": [
+    [
+      {
+        "id": "1",
+        "date": "2018-12-06",
+        "title": "title 1",
+        "amount": 54
+      },
+      {
+        "id": "2",
+        "date": "2018-12-06",
+        "title": "title 2",
+        "amount": 89
+      },
+      {
+        "id": "3",
+        "date": "2018-12-07",
+        "title": "title 3",
+        "amount": 7
+      },
+      {
+        "id": "4",
+        "date": "2018-12-07",
+        "title": "title 4",
+        "amount": 91
+      },
+      {
+        "id": "5",
+        "date": "2018-12-07",
+        "title": "title 5",
+        "amount": 7
+      }
+    ],
+    {
+      "id": "6",
+      "date": "2018-12-09",
+      "title": "毛毛毛",
+      "amount": "333"
+    }
+  ]
+}
