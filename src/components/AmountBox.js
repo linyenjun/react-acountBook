@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-
+// import React, { Component } from 'react';
+import React from 'react';
 const AmountBox = ({text ,type,amount}) =>{
   return (
     <div className="col">
