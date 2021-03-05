@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://linyenjun.github.io/react-acountBook",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "jquery": "^3.3.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
